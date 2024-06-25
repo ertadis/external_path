@@ -1,0 +1,5 @@
+com.pinciat.external_path.test-androidTest-0 /Users/admin/repos2/external_path/android/build/generated/res/resValues/androidTest/debug
+com.pinciat.external_path.test-mergeDebugAndroidTestResources-1 /Users/admin/repos2/external_path/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.pinciat.external_path.test-mergeDebugAndroidTestResources-2 /Users/admin/repos2/external_path/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.pinciat.external_path.test-debugAndroidTest-3 /Users/admin/repos2/external_path/android/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.pinciat.external_path.test-debug-4 /Users/admin/repos2/external_path/android/build/intermediates/packaged_res/debug/packageDebugResources
